@@ -2,8 +2,22 @@
     color: #ff4f33;
 }
 
+.workHarder {
+    text-align: center;
+    color: green;
+}
+
 .doneChores {
     color: #3c79b8;
+}
+
+.reward {
+    text-align: center;
+}
+
+.iceCream {
+    text-align: center;
+    color: forestgreen;
 }
 
 h3 {
