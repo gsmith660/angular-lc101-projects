@@ -10,6 +10,7 @@ export class ButtonsComponent implements OnInit {
    inactiveGold: boolean = false;
    inactiveSilver: boolean = false;
    inactiveCopper: boolean = false;
+   jokeButtonHeading: string = "Joke Buttons"
    inactiveFrustration: boolean = false;
    positions: string[] = [
       'left',
